@@ -1,0 +1,1 @@
+g++  -Wall CMakeFiles/test.dir/test.cpp.o -o test  -lgtest 

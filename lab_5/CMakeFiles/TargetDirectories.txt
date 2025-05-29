@@ -1,0 +1,6 @@
+/home/tamara/2_cours/OOP/lab_5/CMakeFiles/test.dir
+/home/tamara/2_cours/OOP/lab_5/CMakeFiles/main.dir
+/home/tamara/2_cours/OOP/lab_5/CMakeFiles/start_test.dir
+/home/tamara/2_cours/OOP/lab_5/CMakeFiles/start_main.dir
+/home/tamara/2_cours/OOP/lab_5/CMakeFiles/edit_cache.dir
+/home/tamara/2_cours/OOP/lab_5/CMakeFiles/rebuild_cache.dir
